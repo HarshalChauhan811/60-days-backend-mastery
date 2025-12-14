@@ -1,0 +1,6 @@
+{
+  "login": 2,
+  "logout": 1,
+  "purchase": 2,
+  "profileupdate": 1
+}
