@@ -1,0 +1,20 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:dev":"nodemon index.js",
+    "start":"node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
