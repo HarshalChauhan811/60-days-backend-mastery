@@ -19,7 +19,7 @@ This repository is structured **week-wise**, covering everything from **Node.js 
 ## 🛠 Technologies Covered
 
 - Node.js
-- Express.js
+- Express.js. 
 - REST APIs
 - MongoDB & MySQL
 - Prisma & Mongoose
