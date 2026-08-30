@@ -42,11 +42,11 @@ app.use(
     // ===================
     // 🍪 COOKIE SETTINGS
     // ===================
-    cookie: {
+    cookie: { 
       // 👉 maxAge
       // Session cookie kitni der tak valid rahegi
       // Yaha: 1 day (24 hours)
-      maxAge: 1000 * 60 * 60 * 24,
+      maxAge: 1000 * 60 * 60 * 24,  
 
       // (Production concepts – yaad rakhna)
       // httpOnly: true → JS se access block
@@ -65,7 +65,7 @@ app.use(cookieParser("codesnippet"))
 // =================================================
 // 🏠 HOME ROUTE
 // =================================================
-app.get("/", (req, res) => {
+app.get("/", (req, res) => {  
   // 👉 req.session
   // Current user ka poora session object
   // Agar user logged in hai to yahi uska data milega
