@@ -2,7 +2,7 @@ import express from 'express';
 import cookieParser from 'cookie-parser';
 
 const app = express();
-
+  
 /**
  * CONCEPT: Stateless Server & Cookies
  * ---------------------------------
@@ -34,7 +34,7 @@ app.get('/', (req, res) => {
 
         // 'signed': True karne par express is value ko encrypt/sign kar dega "secret" key use karke.
         // Isse ye ensure hota hai ki user ne value tamper (change) nahi ki hai.
-        signed: true 
+        signed: true   
     });
 
     res.send('Hello World - Cookie set kar di gayi hai!');
