@@ -3,7 +3,7 @@
 Welcome to **Backend Development Mastery** 👨‍💻🔥  
 This repository documents my **complete 60-day backend development journey**, focused on building **robust, scalable, and production-ready backend systems**.
 
-This repository is structured **week-wise**, covering everything from **Node.js fundamentals** to **advanced backend concepts, real-time systems, deployment, and AI integration**.
+This repository is structured **week-wise**, covering everything from **Node.js fundamentals** to **advanced backend concepts, real-time systems, deployment, and AI integration**.   
 
 ---
 
